@@ -3,10 +3,9 @@
 <h2>Desenvolvedora Full Stack em formação</h2>
 
 
-<ul>
-  <li>Aprendendo todos os dias e praticando muito!</li>
-  <li>Atualmente estudando: Java, JavaScript, Spring e React</li>
-  <li>Buscando uma oportunidade de estágio na área de desenvolvimento</li>
+  <p>• Aprendendo todos os dias e praticando muito!</p>
+  <p>• Atualmente estudando: Java, JavaScript, Spring e React</p>
+  <p>• Buscando uma oportunidade de estágio na área de desenvolvimento</p>
 </ul>
 </div>
 ## Tecnologias
