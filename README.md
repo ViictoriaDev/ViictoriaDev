@@ -40,7 +40,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=synthwave" />
 </div>
 
-<h3>Vamos nos conectar/w</h3>
-<p>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victória-n-74a6a1211/) 
-</p>
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victória-n-74a6a1211/) 
+
