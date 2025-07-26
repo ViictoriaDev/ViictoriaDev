@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
 <h2>Desenvolvedora Full Stack em formação</h2>
 </div>
