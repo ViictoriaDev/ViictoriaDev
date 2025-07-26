@@ -22,9 +22,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=radical" />
 </div>
 
 Vamos nos conectar?
-[Linkedin](in/victória-n-74a6a1211)
+[Linkedin]([in/victória-n-74a6a1211](https://www.linkedin.com/in/vict%C3%B3ria-n-74a6a1211/))
