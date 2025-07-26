@@ -1,5 +1,5 @@
-## 👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas
-## Desenvolvedora Full Stack em formação
+<h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
+<h2>Desenvolvedora Full Stack em formação</h2>
 
 - Aprendendo todos os dias e praticando muito!
 - Atualmente estudando: Java, JavaScript, Spring e React
