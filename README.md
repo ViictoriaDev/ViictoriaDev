@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=midnight-purple" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=midnight-purple" />
 </div>
 
