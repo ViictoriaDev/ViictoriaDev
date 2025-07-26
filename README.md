@@ -7,9 +7,9 @@
 - Atualmente estudando: Java, JavaScript, Spring e React
 - Buscando uma oportunidade de estágio na área de desenvolvimento
 
-## Tecnologias
-
 <div align="center">
+<h2>Tecnologias</h2>
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" /></td>
