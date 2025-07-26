@@ -40,5 +40,5 @@
 </div>
 
 Vamos nos conectar?
-[Linkedin]([in/victória-n-74a6a1211](https://www.linkedin.com/in/vict%C3%B3ria-n-74a6a1211/))
-<a href="[https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/vict%C3%B3ria-n-74a6a1211/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victória-n-74a6a1211/)
