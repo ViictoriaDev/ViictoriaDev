@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
 
 jobs:
   generate:
@@ -14,7 +14,8 @@ jobs:
           github_user_name: ViictoriaDev
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push to GitHub
+
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
