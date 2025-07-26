@@ -1,13 +1,12 @@
 <div align="center">
 <h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
 <h2>Desenvolvedora Full Stack em formação</h2>
-
-
-  <p>• Aprendendo todos os dias e praticando muito!</p>
-  <p>• Atualmente estudando: Java, JavaScript, Spring e React</p>
-  <p>• Buscando uma oportunidade de estágio na área de desenvolvimento</p>
-</ul>
 </div>
+
+- Aprendendo todos os dias e praticando muito!
+- Atualmente estudando: Java, JavaScript, Spring e React
+- Buscando uma oportunidade de estágio na área de desenvolvimento
+
 ## Tecnologias
 
 <div align="center">
