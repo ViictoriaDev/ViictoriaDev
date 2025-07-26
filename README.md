@@ -20,3 +20,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
+</div>
+
+Vamos nos conectar?
+[Linkedin](in/victória-n-74a6a1211)
