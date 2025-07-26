@@ -8,7 +8,7 @@
 - Buscando uma oportunidade de estágio na área de desenvolvimento
 
 <div align="center">
-<h2>Tecnologias color💜</h2>
+<h2>Tecnologias💜</h2>
 
 <table>
   <tr>
