@@ -35,6 +35,7 @@
 </div>
 
 <div align="center">
+<h2>Estatísticas GitHub</h2>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=synthwave" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=synthwave" />
 </div>
