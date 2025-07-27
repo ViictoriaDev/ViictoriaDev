@@ -11,7 +11,9 @@
 - Atualmente estudando: Java, JavaScript, Spring e React
 - Buscando uma oportunidade de estágio na área de desenvolvimento
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=450&lines=Tecnologias" alt="Typing SVG" /></a>
+
+<h2>Tecnologias💜</h2>
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" /></td>
