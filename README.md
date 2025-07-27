@@ -51,7 +51,20 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/ViictoriaDev/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Vamos nos conectar?
+<h2>Entre em contato comigo: </h2>
+
+<table>
+  <tr>
+    <td>
+       <a href="https://www.linkedin.com/in/victória-n-74a6a1211/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      </td>
+    <td>
+    <a href="mailto:davick006@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">  
+    </td>
+  </tr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victória-n-74a6a1211/) 
 
