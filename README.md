@@ -4,7 +4,6 @@
     <h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
 </td>
   </tr>
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&width=450&lines=Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 </div>
 
