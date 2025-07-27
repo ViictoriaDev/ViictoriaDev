@@ -43,7 +43,7 @@
 <h2>Estatísticas GitHub</h2>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=synthwave" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=synthwave" />
-</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViictoriaDev/ViictoriaDev/output/github-contribution-grid-snake-dark.svg">
@@ -52,7 +52,6 @@
 </picture>
 
 <h2>Entre em contato comigo: </h2>
-
 <table>
   <tr>
     <td>
@@ -61,10 +60,9 @@
       </a>
       </td>
     <td>
-    <a href="mailto:davick006@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">  
+       <a href="https://mail.google.com/mail/?view=cm&to=davick006@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a> 
     </td>
   </tr>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victória-n-74a6a1211/) 
-
+</div>
