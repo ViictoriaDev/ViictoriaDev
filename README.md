@@ -13,7 +13,9 @@
 - Buscando uma oportunidade de estágio na área de desenvolvimento
 
 <div align="center">
-<h2><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&repeat=false&width=450&lines=Tecnologias" alt="Typing SVG" /></a></h2>
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&repeat=false&width=450&lines=Tecnologias" alt="Typing SVG" /></a>
+</h2>
 
 <table>
   <tr>
