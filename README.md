@@ -1,6 +1,6 @@
 <div align="center">
   <tr>
-    <td><img align="right" src="readmeImage.png" width="150"; height="130"; alt="foto perfil"/>
+    <td><img src="readmeImage.png" width="150"; height="130"; alt="foto perfil"/>
     <h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
 </td>
   </tr>
