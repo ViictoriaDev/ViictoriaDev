@@ -1,5 +1,9 @@
 <div align="center">
-<h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
+  <tr>
+    <h1>👩🏻‍💻 Victória - Estudante de Análise e Desenvolvimento de Sistemas</h1>
+  </tr>
+  <td><img src=""/></td>
+
 <h2>Desenvolvedora Full Stack em formação</h2>
 </div>
 
