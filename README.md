@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=1000&color=3D0097&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&lines=Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+<br>
   
 <img src="readmeImage.png" width="175" height="175" alt="foto perfil" />
 
