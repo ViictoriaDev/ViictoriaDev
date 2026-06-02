@@ -16,10 +16,13 @@
 
 <h2>Tecnologias💜</h2>
 
+<h2>Tecnologias💜</h2>
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
@@ -28,6 +31,8 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></td>
@@ -39,8 +44,7 @@
 
 <div align="center">
 <h2>Estatísticas GitHub</h2>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViictoriaDev&show_icons=true&theme=synthwave" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictoriaDev&layout=compact&theme=synthwave" />
+  <img src="https://streak-stats.demolab.com?user=ViictoriaDev&theme=synthwave" />
 
 
 <picture align="center">
