@@ -44,7 +44,7 @@
 
 <div align="center">
 <h2>Estatísticas GitHub</h2>
-  <img src="https://streak-stats.demolab.com?user=ViictoriaDev&theme=synthwave" />
+ <img src="https://streak-stats.demolab.com/?user=ViictoriaDev&theme=synthwave" />
 
 
 <picture align="center">
