@@ -6,12 +6,12 @@
 
   <h1>👩🏻‍💻 Victória - Backend Developer</h1>
       
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&width=450&lines=Desenvolvedora+Back+end+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0097&background=FFFFFF00&width=450&lines=Desenvolvedora+Back+end+C#+|+/.NET" alt="Typing SVG" /></a>
 </div>
 
-- Aprendendo todos os dias e praticando muito!
-- Atualmente estudando: C#/.NET
-- Buscando uma oportunidade na área de desenvolvimento
+- Evoluindo continuamente por meio de projetos e estudos
+- 💻 Desenvolvendo aplicações com C#/.NET
+- Em busca de uma oportunidade como Desenvolvedora
 <div align="center">
 
 <h2>Tecnologias <span>💜</span></h2>
